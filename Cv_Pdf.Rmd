@@ -97,7 +97,9 @@ Belgian fast food chain of more than 70 restaurants.
 
 > **Proficient**: R, Rmarkdown, Reproducible Research, \LaTeX\, GitHub, Zotero, VBA, Pack Office
 
-> **Familiar**:   SQL, SAP BO, Stata, SPSS, Oxmétrics, Html, Jekyll
+> **Familiar**:   SQL, SAP BO, Stata, SPSS
+
+> **Basics**: SAS, Oxmétrics, Html, Jekyll
 
 ## Written & Spoken
 

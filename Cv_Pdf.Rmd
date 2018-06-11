@@ -26,7 +26,7 @@ header-includes:
 ---
 \vspace{1cm}
 
-\lettrine{F}resh finance graduate with a great passion for Sustainable Development, my cursus in three different universities provided me a strong holistic background in Sustainable Finance. Every day, I am doing research to collect evidence that it does pay to be green and that companies have incentives to adopt sustainable business strategies. To achieve this goal, I have developed strong data analytics skills in learning software environment for statistical computing. My main concern is doing research in a reproducible way so that others may verify my findings and build upon them to further the science and to drive ongoing progress. I am looking for a job opportunity that will improve my skills of data analyst and get me closer from my personal goal: *making the world a greener place*. 
+\lettrine{F}resh finance graduate with a great passion for Sustainable Development, my studies in three different universities provided me a strong holistic background in Sustainable Finance. Every day, I am doing research to collect evidence that it does pay to be green and that companies have incentives to adopt sustainable business strategies. To achieve this goal, I have developed strong data analytics skills in learning software environment for statistical computing. My main concern is doing research in a reproducible way so that others may verify my findings and build upon them to further the science and to drive ongoing progress. I am looking for a job opportunity that will improve my skills of data analyst and get me closer from my personal goal: *making the world a greener place*. 
 
 # EDUCATION
 
@@ -36,7 +36,7 @@ header-includes:
 
 *University of Namur*, MBA, Distinction \hfill 09/2015-06/2018  
 
-> **Thesis** | "Towards Green Companies: A Panel Data Study of The Environmental and Financial Performance Nexus", available on my [GitHub](https://github.com/pkinif/Thesis) account.
+> **Thesis** | *"Towards Green Companies: A Panel Data Study of The Environmental and Financial Performance Nexus"*, available on my [GitHub](https://github.com/pkinif/Thesis) account.
 
 *University of Namur*, BBA \hfill 09/2012-09/2015
 
@@ -46,7 +46,7 @@ header-includes:
 
 *Assistant, Sustainability Practice at [IMS Luxembourg](http://imslux.lu/)* \hfill 09/2017-03/2018
 
-Luxemburgish network that accompanies organisations in their commitment to CSR by enhancing dialogue with their stakeholders.
+Luxemburgish network that accompanies organizations in their commitment to CSR by enhancing dialogue with their stakeholders.
 
 - Results analysis of a CSR survey for presentation during the [Luxembourg Sustainability Forum (i.e. LSF) 2017](https://www.youtube.com/watch?v=GIjwK_j_HyY) and later publication. 
 
@@ -62,17 +62,17 @@ Luxemburgish network that accompanies organisations in their commitment to CSR b
 
 The oldest private banking group in the Grand Duchy and among the country’s top three banks. 
 
-- Validatation and ensure consistency of the credit risk databases used by the different departments of the bank.
+- Validation and ensure consistency of the credit risk databases used by the different departments of the bank.
 
-- Developement of an application to automatize the data validation process.
+- Development  of an application to automatize the data validation process.
 
 *Campus Consultant at [4uCampus](https://www.4ucampus.be/fr/)* \hfill 09/2015-03/2016
 
-Company which offers reductions on newspapers, magazines, computers, softwares and printers to students and academic staff.
+A company which offers reductions on newspapers, magazines, computers, software ,and printers to students and academic staff.
 
 - Sales of subscriptions of press titles to students and academic staff
 
-- Give speeches to academic audience to promote company's products 
+- Give speeches to the academic audience to promote company's products 
 
 - Prospection 
 
@@ -80,9 +80,9 @@ Company which offers reductions on newspapers, magazines, computers, softwares a
 
 Belgian fast food chain of more than 70 restaurants. 
 
-- Team project to improve the employer branding of the company
+- A team project to improve the employer branding of the company
 
-*Barman and Server at [Les Caves à Bières](https://www.google.com/url?sa=t&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwiynrj6rb3bAhUsJ8AKHeloA60QFgguMAA&url=https%3A%2F%2Ffr-fr.facebook.com%2Fpages%2FLes-Caves-%25C3%2580-Bi%25C3%25A8res%2F186535764722243&usg=AOvVaw3QgJ8qNQfPsKg4xsqVIf3t), the [Piano bar](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwi-9KvXrb3bAhVKI8AKHQLxBiMQFgguMAA&url=https%3A%2F%2Ffr-fr.facebook.com%2Flepianobarnamur%2F&usg=AOvVaw2czC_1tmXbWBVyH_t6Q9hW) and the [Arsenal](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwi3gJ2Vrr3bAhWRasAKHXc8DtYQFgg-MAE&url=https%3A%2F%2Fwww.unamur.be%2Fservices%2Fsocial%2Farsenal&usg=AOvVaw1EWoWte0qHjoIsPppcGMhT)* Namur \hfill 09/2012-12-2015
+*Barman and Server at [Les Caves à Bières](https://www.google.com/url?sa=t&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwiynrj6rb3bAhUsJ8AKHeloA60QFgguMAA&url=https%3A%2F%2Ffr-fr.facebook.com%2Fpages%2FLes-Caves-%25C3%2580-Bi%25C3%25A8res%2F186535764722243&usg=AOvVaw3QgJ8qNQfPsKg4xsqVIf3t), the [Piano bar](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwi-9KvXrb3bAhVKI8AKHQLxBiMQFgguMAA&url=https%3A%2F%2Ffr-fr.facebook.com%2Flepianobarnamur%2F&usg=AOvVaw2czC_1tmXbWBVyH_t6Q9hW) ,and the [Arsenal](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwi3gJ2Vrr3bAhWRasAKHXc8DtYQFgg-MAE&url=https%3A%2F%2Fwww.unamur.be%2Fservices%2Fsocial%2Farsenal&usg=AOvVaw1EWoWte0qHjoIsPppcGMhT)* Namur \hfill 09/2012-12-2015
 
 - Financing my studies
 

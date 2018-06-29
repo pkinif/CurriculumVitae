@@ -8,7 +8,7 @@ title: "Curriculum Vitae"
 author: Pierrick Kinif
 orcid: "Updated on 5th June 2018"
 jobtitle: "Fresh Finance Graduate - In a Learning Process to Improve My Data Analytics Skills"
-address: "Rue Albert 1er, 126 6780 Wolkrange, Belgium"
+address: "Luxembourg"
 fontawesome: yes
 email: pierrick-kinif@hotmail.be
 github: pkinif
@@ -36,7 +36,7 @@ header-includes:
 
 *University of Namur*, MBA, Finance Specialization, Distinction \hfill 09/2015-06/2018  
 
-> **Thesis** | *"Towards Green Companies: A Panel Data Study of The Environmental and Financial Performance Nexus"*, available on my [GitHub](https://github.com/pkinif/Thesis) account.
+> **Thesis** | *"Towards Green Companies: A Panel Data Study of The Environmental and Financial Performance Nexus"*
 
 *University of Namur*, BBA \hfill 09/2012-09/2015
 

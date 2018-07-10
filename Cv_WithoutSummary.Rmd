@@ -6,7 +6,7 @@ output:
 geometry: margin=1in
 title: "Curriculum Vitae"
 author: Pierrick Kinif
-orcid: "Updated on 5th June 2018"
+orcid: "Updated on 10th July 2018"
 jobtitle: "Fresh Finance Graduate - In a Learning Process to Improve My Data Analytics Skills"
 address: "Luxembourg"
 fontawesome: yes
@@ -66,7 +66,7 @@ The oldest private banking group in the Grand Duchy and among the country’s to
 
 *Campus Consultant at [4uCampus](https://www.4ucampus.be/fr/)* \hfill 09/2015-03/2016
 
-A company which offers reductions on newspapers, magazines, computers, software ,and printers to students and academic staff.
+A company which offers reductions on newspapers, magazines, computers, software, and printers to students and academic staff.
 
 - Sales of subscriptions of press titles to students and academic staff
 
@@ -80,7 +80,7 @@ Belgian fast food chain of more than 70 restaurants.
 
 - A team project to improve the employer branding of the company
 
-*Barman and Server at [Les Caves à Bières](https://www.google.com/url?sa=t&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwiynrj6rb3bAhUsJ8AKHeloA60QFgguMAA&url=https%3A%2F%2Ffr-fr.facebook.com%2Fpages%2FLes-Caves-%25C3%2580-Bi%25C3%25A8res%2F186535764722243&usg=AOvVaw3QgJ8qNQfPsKg4xsqVIf3t), the [Piano bar](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwi-9KvXrb3bAhVKI8AKHQLxBiMQFgguMAA&url=https%3A%2F%2Ffr-fr.facebook.com%2Flepianobarnamur%2F&usg=AOvVaw2czC_1tmXbWBVyH_t6Q9hW) ,and the [Arsenal](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwi3gJ2Vrr3bAhWRasAKHXc8DtYQFgg-MAE&url=https%3A%2F%2Fwww.unamur.be%2Fservices%2Fsocial%2Farsenal&usg=AOvVaw1EWoWte0qHjoIsPppcGMhT)* Namur \hfill 09/2012-12-2015
+*Barman and Server at [Les Caves à Bières](https://www.google.com/url?sa=t&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwiynrj6rb3bAhUsJ8AKHeloA60QFgguMAA&url=https%3A%2F%2Ffr-fr.facebook.com%2Fpages%2FLes-Caves-%25C3%2580-Bi%25C3%25A8res%2F186535764722243&usg=AOvVaw3QgJ8qNQfPsKg4xsqVIf3t), the [Piano bar](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwi-9KvXrb3bAhVKI8AKHQLxBiMQFgguMAA&url=https%3A%2F%2Ffr-fr.facebook.com%2Flepianobarnamur%2F&usg=AOvVaw2czC_1tmXbWBVyH_t6Q9hW), and the [Arsenal](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwi3gJ2Vrr3bAhWRasAKHXc8DtYQFgg-MAE&url=https%3A%2F%2Fwww.unamur.be%2Fservices%2Fsocial%2Farsenal&usg=AOvVaw1EWoWte0qHjoIsPppcGMhT)* Namur \hfill 09/2012-12/2015
 
 - Financing my studies
 

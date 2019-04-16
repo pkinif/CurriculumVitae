@@ -9,7 +9,7 @@ email: "pierrick-kinif@hotmail.be"
 github: pkinif
 linkedin: pierrickkinif
 date: "`r format(Sys.time(), '%B %Y')`"
-#aboutme: "MBA graduate, Ex-Credit Risk Data Analyst, Ex-Assistant Sustainability Practice, I am currently working as a Department Manager at Decathlon. I have found that nothing satisfies me more than evolving in a dynamic, intellectual, and challenging environment which places people and planet at the heart of all of its decision-making. I am a goal-oriented person and my passion for data science (R user [2+ years]) helps me to develop excellent decision-making tools and techniques based on tangible information."
+aboutme: "< I do speak French (Native Fluency), English (C1 level) and Dutch (B1 Level) >"
 output: vitae::awesomecv
 ---
 
@@ -26,16 +26,17 @@ tribble(
 "Certificate in Sustainable Development and Social Innovation", "University of Luxembourg", "Luxembourg", "Sep. 2017 - Present", "Participated in the first national initiative to gather all Luxembourgish stakeholders involved in plastic waste management",
 
 "Master in Business Administration, Finance Specialization, Distinction", "University of Namur", "Namur, Belgium","Sep. 2015 - Jun. 2018", "Thesis: Towards Green Companies - A Panel Data Study of The Environmental and Financial Performance Nexus",
-"Master in Business Administration, Finance Specialization, Distinction", "University of Namur", "Namur, Belgium", "Sep. 2015 - Jun. 2018", "Writing of my thesis in RMarkdown to make it transparent and reproducible for the reader. All resources are available on my GitHub account and can be gladly shared upon request",
+"Master in Business Administration, Finance Specialization, Distinction", "University of Namur", "Namur, Belgium", "Sep. 2015 - Jun. 2018", "Writing of my thesis in R/RMarkdown/Latex to make it transparent and reproducible for the reader. All resources are available on my GitHub account and can be gladly shared upon request",
   ) %>% 
   detailed_entries(degree, dates, uni, loc, details)
 
 tribble(
   ~ degree, ~ uni, ~ loc, ~ dates, ~ details,
-"Erasmus Mundus", "School of Economics, Business and Accounting - University of São Paulo", "São Paulo, Brazil", "Jul. 2016, Jan.2017","Writing of a scientific paper aiming at studying how eco-innovation affects financial performances of companies listed in the CAC40",
+"Erasmus Mundus", "School of Economics, Business and Accounting - University of São Paulo", "São Paulo, Brazil", "Jul. 2016, Jan.2017","Using Stata - Writing of a scientific paper aiming at studying how eco-innovation affects financial performances of companies listed in the CAC40",
 
-"Bachelor in Business Administration", "University of Namur", "Namur, Belgium", "Sep. 2012 - Jun. 2015", "Participated in a business game",
-"Bachelor in Business Administration", "University of Namur", "Namur, Belgium", "Sep. 2012 - Jun. 2015", "Realization of a market study measuring the level of satisfaction of patients suffering from chronic illnesses",
+
+"Bachelor in Business Administration", "University of Namur", "Namur, Belgium", "Sep. 2012 - Jun. 2015", "Using OxMétrics - Risk analysis of GlaxoSmithKline plc (GSK.L) via the Value At Risk",
+"Bachelor in Business Administration", "University of Namur", "Namur, Belgium", "Sep. 2012 - Jun. 2015", "Using SPSS - Realization of a market study measuring the level of satisfaction of patients suffering from chronic illnesses",
   ) %>% 
   detailed_entries(degree, dates, uni, loc, details)
 ```
@@ -44,10 +45,8 @@ tribble(
 ```{r}
 tribble(
   ~ role, ~ company, ~ loc, ~ dates, ~ details,
-"Department Manager", "Decathlon Belgium", "Arlon, Belgium", "Sept. 2018 - Present", "Leading a team of 10-15 individuals who are fanatically devoted to sharing their sport passion",
-"Department Manager", "Decathlon Belgium", "Arlon, Belgium", "Sept. 2018 - Present", "Implement a strategy to increase sales growth (+ 8%)",
-"Department Manager", "Decathlon Belgium", "Arlon, Belgium", "Sept. 2018 - Present", "Support, challenge and build both commercial and human skills of the team",
-"Department Manager", "Decathlon Belgium", "Arlon, Belgium", "Sept. 2018 - Present", "Ensure and improve customer satisfaction",
+"Department Manager", "Decathlon Belgium", "Arlon, Belgium", "Sept. 2018 - Present", "Lead, challenge and build both commercial and human skills of a team of 10-15 individuals",
+"Department Manager", "Decathlon Belgium", "Arlon, Belgium", "Sept. 2018 - Present", "Implement a strategy to increase sales growth (+ 8%) and customer satisfaction",
 "Department Manager", "Decathlon Belgium", "Arlon, Belgium", "Sept. 2018 - Present", "Inventory Management and Optimization",
 
 "Assistant Sustainability Practice", "IMS Luxembourg", "Luxembourg", "Sept. 2017 - Mar.2018","Results analysis of a CSR survey for presentation during the Luxembourg Sustainability Forum (i.e. LSF) 2017 and later publication",
@@ -61,18 +60,39 @@ tribble(
 
 tribble(
   ~ role, ~ company, ~ loc, ~ dates, ~ details,
-"Credit Risk Data Analyst Inter", "Bank International of Luxembourg", "Luxembourg", "Jan. 2017 - Jun. 2017", "Using SQL for validating and ensuring consistency of the credit risk databases", 
-"Credit Risk Data Analyst Inter", "Bank International of Luxembourg", "Luxembourg", "Jan. 2017 - Jun. 2017", "Development of a VBA application to automatize the data validation process", 
-"Credit Risk Data Analyst Inter", "Bank International of Luxembourg", "Luxembourg", "Jan. 2017 - Jun. 2017", "Review risk exposure calculations and forecasts for Basel requirements", 
+"Credit Risk Data Analyst Intern", "Bank International of Luxembourg", "Luxembourg", "Jan. 2017 - Jun. 2017", "Using SQL for validating and ensuring consistency of the credit risk databases", 
+"Credit Risk Data Analyst Intern", "Bank International of Luxembourg", "Luxembourg", "Jan. 2017 - Jun. 2017", "Development of a VBA application to automatize the data validation process", 
+"Credit Risk Data Analyst Intern", "Bank International of Luxembourg", "Luxembourg", "Jan. 2017 - Jun. 2017", "Review risk exposure calculations and forecasts for Basel requirements", 
 
 "Campus Consultant", "4UCampus", "Namur, Belgium", "Sept. 2015 - Mar. 2016", "Sales of subscriptions of press titles to students and academic staff", 
-"Campus Consultant", "4UCampus", "Namur, Belgium", "Sept. 2015 - Mar. 2016", "Promote the company’s products", 
-"Campus Consultant", "4UCampus", "Namur, Belgium", "Sept. 2015 - Mar. 2016", "Expand the client base", 
+"Campus Consultant", "4UCampus", "Namur, Belgium", "Sept. 2015 - Mar. 2016", "Promote the company’s products and expand the client base", 
+ 
 
 ) %>% 
   detailed_entries(role, dates, company, loc, details)
 ```
 
-# Relevant Skills 
+# Certification
 
-uygkuy
+```{r}
+tribble(
+  ~ cert, ~ from, ~ year,
+  "R Programming Track", "DataCamp", "2019",
+  "Importing & Cleaning Data with R Track", "DataCamp", "2018",
+  "Data Analyst with R Track", "DataCamp", "2018",
+) %>%
+  brief_entries(cert, year, from)
+```
+
+<!--
+# Languages
+```{r}
+tribble(
+  ~ cert,~ year,
+  "C2 Level", "French", 
+  "C1 Level", "English",
+  "B1 Level", "Dutch",
+) %>%
+  brief_entries(cert, year)
+```
+-->

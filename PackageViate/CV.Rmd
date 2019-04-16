@@ -10,6 +10,7 @@ github: pkinif
 linkedin: pierrickkinif
 date: "`r format(Sys.time(), '%B %Y')`"
 aboutme: "< I do speak French (Native Fluency), English (C1 level) and Dutch (B1 Level) >"
+headcolor: 556B2F
 output: vitae::awesomecv
 ---
 
@@ -27,6 +28,8 @@ tribble(
 
 "Master in Business Administration, Finance Specialization, Distinction", "University of Namur", "Namur, Belgium","Sep. 2015 - Jun. 2018", "Thesis: Towards Green Companies - A Panel Data Study of The Environmental and Financial Performance Nexus",
 "Master in Business Administration, Finance Specialization, Distinction", "University of Namur", "Namur, Belgium", "Sep. 2015 - Jun. 2018", "Writing of my thesis in R/RMarkdown/Latex to make it transparent and reproducible for the reader. All resources are available on my GitHub account and can be gladly shared upon request",
+"Master in Business Administration, Finance Specialization, Distinction", "University of Namur", "Namur, Belgium","Sep. 2015 - Jun. 2018", "Using OxMétrics - Risk analysis of GlaxoSmithKline plc (GSK.L) via the Value At Risk",
+
   ) %>% 
   detailed_entries(degree, dates, uni, loc, details)
 
@@ -34,8 +37,6 @@ tribble(
   ~ degree, ~ uni, ~ loc, ~ dates, ~ details,
 "Erasmus Mundus", "School of Economics, Business and Accounting - University of São Paulo", "São Paulo, Brazil", "Jul. 2016, Jan.2017","Using Stata - Writing of a scientific paper aiming at studying how eco-innovation affects financial performances of companies listed in the CAC40",
 
-
-"Bachelor in Business Administration", "University of Namur", "Namur, Belgium", "Sep. 2012 - Jun. 2015", "Using OxMétrics - Risk analysis of GlaxoSmithKline plc (GSK.L) via the Value At Risk",
 "Bachelor in Business Administration", "University of Namur", "Namur, Belgium", "Sep. 2012 - Jun. 2015", "Using SPSS - Realization of a market study measuring the level of satisfaction of patients suffering from chronic illnesses",
   ) %>% 
   detailed_entries(degree, dates, uni, loc, details)
@@ -45,9 +46,12 @@ tribble(
 ```{r}
 tribble(
   ~ role, ~ company, ~ loc, ~ dates, ~ details,
-"Department Manager", "Decathlon Belgium", "Arlon, Belgium", "Sept. 2018 - Present", "Lead, challenge and build both commercial and human skills of a team of 10-15 individuals",
-"Department Manager", "Decathlon Belgium", "Arlon, Belgium", "Sept. 2018 - Present", "Implement a strategy to increase sales growth (+ 8%) and customer satisfaction",
-"Department Manager", "Decathlon Belgium", "Arlon, Belgium", "Sept. 2018 - Present", "Inventory Management and Optimization",
+"Department Manager", "Decathlon Belgium", "Arlon, Belgium", "Sept. 2018 - Present", "Leading a team of 10-15 individuals who are fanatically devoted to sharing their sport passion",
+"Department Manager", "Decathlon Belgium", "Arlon, Belgium", "Sept. 2018 - Present", "Strategies implementation to increase sales growth (+ 8%) and customer satisfaction",
+"Department Manager", "Decathlon Belgium", "Arlon, Belgium", "Sept. 2018 - Present", "Support, challenge and build both commercial and human skills of the team",
+"Department Manager", "Decathlon Belgium", "Arlon, Belgium", "Sept. 2018 - Present", "Ensure and improve customer satisfaction",
+"Department Manager", "Decathlon Belgium", "Arlon, Belgium", "Sept. 2018 - Present", "Inventory management and optimization",
+
 
 "Assistant Sustainability Practice", "IMS Luxembourg", "Luxembourg", "Sept. 2017 - Mar.2018","Results analysis of a CSR survey for presentation during the Luxembourg Sustainability Forum (i.e. LSF) 2017 and later publication",
 "Assistant Sustainability Practice", "IMS Luxembourg", "Luxembourg", "Sept. 2017 - Mar.2018","Help for the organization of the LSF2017 + media follow-up",

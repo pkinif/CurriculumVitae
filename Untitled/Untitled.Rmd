@@ -1,0 +1,25 @@
+---
+name: Pierrick KINIF
+position: "MBA Graduate | Hiking Department Manager at Decathlon | Passionate about Data Scienc"
+address: "Luxembourg"
+phone: +32 478 113 485
+profilepic: PhotoMySelf.png
+www: pierrickkinif.com
+email: "pierrick-kinif@hotmail.be"
+github: pkinif
+linkedin: pierrickkinif
+date: "`r format(Sys.time(), '%B %Y')`"
+aboutme: "MBA graduate, Ex-Credit Risk Data Analyst, Ex-Assistant Sustainability Practice, I am currently working as a Department Manager at Decathlon. I have found that nothing satisfies me more than evolving in a dynamic, intellectual, and challenging environment which places people and planet at the heart of all of its decision-making. I am a goal-oriented person and my passion for data science (R user [2+ years]) helps me to develop excellent decision-making tools and techniques based on tangible information."
+output: vitae::twentyseconds
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
+library(vitae)
+```
+
+# Some stuff about me
+
+ * I poisoned myself doing research.
+ * I was the first woman to win a Nobel prize
+ * I was the first person and only woman to win a Nobel prize in two different sciences.

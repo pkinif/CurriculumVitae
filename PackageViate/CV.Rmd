@@ -10,7 +10,7 @@ github: pkinif
 linkedin: pierrickkinif
 date: "`r format(Sys.time(), '%B %Y')`"
 aboutme: "< I do speak French (Native Fluency), English (C1 level) and Dutch (B1 Level) >"
-headcolor: 556B2F
+headcolor: 808000
 output: vitae::awesomecv
 ---
 
@@ -26,9 +26,9 @@ tribble(
   ~ degree, ~ uni, ~ loc, ~ dates, ~ details,
 "Certificate in Sustainable Development and Social Innovation", "University of Luxembourg", "Luxembourg", "Sep. 2017 - Present", "Participated in the first national initiative to gather all Luxembourgish stakeholders involved in plastic waste management",
 
-"Master in Business Administration, Finance Specialization, Distinction", "University of Namur", "Namur, Belgium","Sep. 2015 - Jun. 2018", "Thesis: Towards Green Companies - A Panel Data Study of The Environmental and Financial Performance Nexus",
-"Master in Business Administration, Finance Specialization, Distinction", "University of Namur", "Namur, Belgium", "Sep. 2015 - Jun. 2018", "Writing of my thesis in R/RMarkdown/Latex to make it transparent and reproducible for the reader. All resources are available on my GitHub account and can be gladly shared upon request",
-"Master in Business Administration, Finance Specialization, Distinction", "University of Namur", "Namur, Belgium","Sep. 2015 - Jun. 2018", "Using OxMétrics - Risk analysis of GlaxoSmithKline plc (GSK.L) via the Value At Risk",
+"Master of Business Administration, Finance Specialization, Distinction", "University of Namur", "Namur, Belgium","Sep. 2015 - Jun. 2018", "Thesis: Towards Green Companies - A Panel Data Study of The Environmental and Financial Performance Nexus",
+"Master of Business Administration, Finance Specialization, Distinction", "University of Namur", "Namur, Belgium", "Sep. 2015 - Jun. 2018", "Writing of my thesis in R/RMarkdown/Latex to make it transparent and reproducible for the reader. All resources are available on my GitHub account and can be gladly shared upon request",
+"Master of Business Administration, Finance Specialization, Distinction", "University of Namur", "Namur, Belgium","Sep. 2015 - Jun. 2018", "Using OxMétrics - Risk analysis of GlaxoSmithKline plc (GSK.L) via the Value At Risk",
 
   ) %>% 
   detailed_entries(degree, dates, uni, loc, details)
@@ -37,7 +37,7 @@ tribble(
   ~ degree, ~ uni, ~ loc, ~ dates, ~ details,
 "Erasmus Mundus", "School of Economics, Business and Accounting - University of São Paulo", "São Paulo, Brazil", "Jul. 2016, Jan.2017","Using Stata - Writing of a scientific paper aiming at studying how eco-innovation affects financial performances of companies listed in the CAC40",
 
-"Bachelor in Business Administration", "University of Namur", "Namur, Belgium", "Sep. 2012 - Jun. 2015", "Using SPSS - Realization of a market study measuring the level of satisfaction of patients suffering from chronic illnesses",
+"Bachelor of Business Administration", "University of Namur", "Namur, Belgium", "Sep. 2012 - Jun. 2015", "Using SPSS - Realization of a market study measuring the level of satisfaction of patients suffering from chronic illnesses",
   ) %>% 
   detailed_entries(degree, dates, uni, loc, details)
 ```
